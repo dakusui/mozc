@@ -1,3 +1,5 @@
+A fork to implement a workaround described here:[ibus-mozcの初期入力モードを「ひらがな」にする。](http://ranats.github.io/2016/04/13/ibus-mozc-fixed.html)
+
 [Mozc - a Japanese Input Method Editor designed for multi-platform](https://github.com/google/mozc)
 ===================================
 
